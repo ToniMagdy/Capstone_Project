@@ -18,3 +18,10 @@ The data is contained in three files:
 - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
 - profile.json - demographic data for each customer
 - transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
+## Main Goal
+
+To predict whether or not the user will respond to an offer.
+
+
+# More Detils about the project found [here](https://medium.com/@tony.magdy1.totti/starbucks-capstone-challenge-bcdc9fb16073)
